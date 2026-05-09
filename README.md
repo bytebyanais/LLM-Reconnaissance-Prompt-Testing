@@ -9,6 +9,9 @@ Penetration-testing-focused prompts
 
 Three prompts were submitted to each GPT configuration against a dataset containing files from a simulated organization. The files themselves were intentionally left empty to ensure the models relied solely on file names and naming conventions when determining which assets could provide reconnaissance value.
 
+Research Question
+Can general-purpose LLM prompts identify reconnaissance-relevant files as effectively as penetration-testing-focused prompts?
+
 Findings
 The general-purpose GPT successfully identified files that could be useful for reconnaissance based solely on naming conventions. The results suggest that minimal prompt specificity is required for an LLM to recognize potentially valuable organizational information during the reconnaissance phase.
 
