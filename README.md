@@ -1,4 +1,4 @@
-# Can-ChatGPT-conduct-Reconnaissance-
+# LLM Reconnaissance Prompt Testing
 This project evaluates how different prompting styles influence ChatGPT's reconnaissance-related responses. The objective was to compare general-purpose prompts against penetration-testing-oriented prompts to determine whether both models could successfully identify files useful during the reconnaissance phase of a cybersecurity assessment.
 
 Project Overview
