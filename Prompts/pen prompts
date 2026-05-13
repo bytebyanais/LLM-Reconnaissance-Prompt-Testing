@@ -1,2 +1,6 @@
 #Pen Prompts Folder
 This is for the pen prompts
+
+Prompt One: Find all files that may contain sensitive information.
+Prompt Two: Can you give the metadata analysis?
+Prompt Three: Can you give attack-surface enumeration?
